@@ -1,5 +1,5 @@
 ---
-type: lecture
+type: exercises
 date: 2018-09-15T0:00:03-3:00
 title: Representação Numérica
 tldr: 

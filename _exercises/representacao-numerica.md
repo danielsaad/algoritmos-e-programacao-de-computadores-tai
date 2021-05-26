@@ -5,6 +5,6 @@ title: Representação Numérica
 tldr: 
 thumbnail: /static_files/presentations/representacao-numerica.jpg
 links: 
-    - url: /assets/aulas/representacao-numerica.pdf
-      name: Slides
+    - url: /assets/listas-de-exercicios/representacao-numerica.pdf
+      name: pdf
 ---

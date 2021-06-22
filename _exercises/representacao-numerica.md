@@ -1,6 +1,6 @@
 ---
 type: exercises
-date: 2018-09-15T0:00:03-3:00
+date: 2018-09-15T0:00:00-3:00
 title: Representação Numérica
 tldr: 
 thumbnail: /static_files/presentations/representacao-numerica.jpg

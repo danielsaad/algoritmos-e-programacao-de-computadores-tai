@@ -6,5 +6,5 @@ tldr:
 thumbnail: /static_files/presentations/estruturas-de-decisao.jpg
 links: 
     - url: /assets/aulas/estruturas-de-decisao.pdf
-      name: Parte 1
+      name: Slides
 ---

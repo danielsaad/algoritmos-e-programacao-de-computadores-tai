@@ -6,5 +6,5 @@ tldr:
 thumbnail: /static_files/presentations/estruturas-de-repeticao.jpg
 links: 
     - url: /assets/aulas/estruturas-de-repeticao.pdf
-      name: Slides
+      name: Parte 1
 ---

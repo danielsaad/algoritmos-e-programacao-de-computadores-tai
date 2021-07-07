@@ -7,4 +7,6 @@ thumbnail: /static_files/presentations/estruturas-de-repeticao.jpg
 links: 
     - url: /assets/aulas/estruturas-de-repeticao.pdf
       name: Parte 1
+    - url: /assets/aulas/estruturas-de-repeticao-02.pdf
+      name: Parte 2
 ---

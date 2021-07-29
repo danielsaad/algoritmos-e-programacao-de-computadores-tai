@@ -5,6 +5,6 @@ title: Strings
 tldr: 
 thumbnail: /static_files/presentations/strings.png
 links: 
- url: https://codeforces.com/group/2dgvoFrt9u/contest/306427
-      name: codeforces
+    - url: https://codeforces.com/group/2dgvoFrt9u/contest/306427
+    name: codeforces
 ---

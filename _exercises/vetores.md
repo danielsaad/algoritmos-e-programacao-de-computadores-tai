@@ -5,6 +5,6 @@ title: Vetores
 tldr: 
 thumbnail: /static_files/presentations/vetores.png
 links: 
- url: https://codeforces.com/group/2dgvoFrt9u/contest/304779
-      name: codeforces
+	- url: https://codeforces.com/group/2dgvoFrt9u/contest/304779
+	name: codeforces
 ---
